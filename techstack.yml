@@ -1,7 +1,8 @@
 repo_name: GollyJer/project-base
 report_id: 71ccdd353b3c5b1fa84cf570924a69d2
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-21T18:39:17+00:00'
+timestamp: '2024-01-05T08:36:00+00:00'
 requested_by: GollyJer
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/GollyJer/project-base
   detection_source: Repo Metadata
